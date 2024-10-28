@@ -12,7 +12,7 @@ const Container = () => {
         {/* Sidebar */}
         <div className="fixed top-0 left-0 h-screen w-16 flex flex-col justify-between border-e bg-white">
             <div>
-              <div className="inline-flex size-16 items-center justify-center">
+              <div className="inline-flex size-16 items-center justify-center mt-5">
                 <span className="grid size-10 place-content-center rounded-lg bg-gray-100 text-xs text-gray-600">
                   <img src={Logo} alt="logo" />
                 </span>
